@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field
 # --------------------------------------------------
 
 EMAIL = "23f2005531@ds.study.iitm.ac.in"
-API_KEY = "ak_wj17bphj1bdpne1cq3har367"
+API_KEY = "ak_wj17bphjlbdpne1cq3har367"
 
 api = FastAPI(title="POST Analytics API")
 
